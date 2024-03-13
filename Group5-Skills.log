@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  13 MAR 2024 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  13 MAR 2024 23:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,78 +513,76 @@ tex/pdftex.map} <./USyd.jpg>] (Group5-Skills.toc)
 \openout4 = `Group5-Skills.toc'.
 
  [1]
-Overfull \hbox (1.43726pt too wide) in paragraph at lines 123--125
-\T1/cmr/m/n/10.95 For example, in the first submission, one team member attempt
-ed only the foundation
- []
-
-
-Overfull \hbox (6.04926pt too wide) in paragraph at lines 123--125
-\T1/cmr/m/n/10.95 task). In the second submission, they then reattempted the fo
-undation task (successful
- []
-
-[2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Overfull \hbox (8.8619pt too wide) in paragraph at lines 161--162
+Overfull \hbox (8.8619pt too wide) in paragraph at lines 139--140
 \T1/cmr/m/n/10.95 LaTeX document using the template provided on Canvas with you
 r team members
  []
 
 
-Overfull \hbox (12.54257pt too wide) in paragraph at lines 163--164
+Overfull \hbox (12.54257pt too wide) in paragraph at lines 141--142
 []\T1/cmr/m/n/10.95 Provide evidence that you can compile from the command line
  (provide screenshots
  []
 
-[4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
 
-Overfull \hbox (5.23277pt too wide) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+Overfull \hbox (5.23277pt too wide) in paragraph at lines 206--207
 []\T1/cmr/m/n/10.95 The first component focuses on exploration of relevant tech
  tools used within professional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
-[7] [8]
-Overfull \hbox (12.91554pt too wide) in paragraph at lines 341--342
+[6] [7]
+Overfull \hbox (12.91554pt too wide) in paragraph at lines 328--329
 []\T1/cmr/m/n/10.95 The answers provided to the 4 questions (component 1b) use 
 ChatGPT and independent
  []
 
 
-Overfull \hbox (20.78511pt too wide) in paragraph at lines 349--349
+Overfull \hbox (20.78511pt too wide) in paragraph at lines 336--336
 |[]\T1/cmr/bx/n/13 Tools and Skills for Computer Science: FAMNAME1, givenName1|
  
  []
 
-
-Overfull \hbox (16.34589pt too wide) in paragraph at lines 382--382
-|[]\T1/cmr/bx/n/13 Tools and Skills for SW Development: FAMNAME3, givenName3| 
- []
-
-
-Overfull \hbox (1.40266pt too wide) in paragraph at lines 399--399
+[8]
+Overfull \hbox (1.40266pt too wide) in paragraph at lines 386--386
 |[]\T1/cmr/bx/n/13 Tools and Skills for Cyber Security: FAMNAME4, givenName4| 
  []
 
-[9] [10] [11] (Group5-Skills.bbl) [12
+[9] [10] (Group5-Skills.bbl) [11
 
 ] (Group5-Skills.aux)
  ***********
@@ -592,21 +590,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Group5-Skills.out' has not changed.
-(rerunfilecheck)             Checksum: 0CFCF8E38A513B111F9FDC93E734F276;4104.
+(rerunfilecheck)             Checksum: 90270122B0F91F6F5A17FD2E74E8CFED;4234.
  ) 
 Here is how much of TeX's memory you used:
  11395 strings out of 476391
- 186984 string characters out of 5791997
+ 186883 string characters out of 5791997
  1942187 words of memory out of 5000000
- 33266 multiletter control sequences out of 15000+600000
+ 33265 multiletter control sequences out of 15000+600000
  568863 words of font info for 56 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,9n,79p,1040b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,812b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/helen_ng17/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/l
 jfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/helen_ng17/Library/Application Su
-pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </User
+pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecbx1000.pk> </User
 s/helen_ng17/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkn
-appen/ec/dpi657/ecbx1000.pk> </Users/helen_ng17/Library/Application Support/MiK
+appen/ec/dpi600/ecrm0800.pk> </Users/helen_ng17/Library/Application Support/MiK
 TeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi750/ecbx1200.pk> </Users/helen_n
 g17/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
 dpi1244/ecbx1200.pk> </Users/helen_ng17/Library/Application Support/MiKTeX/texm
@@ -617,9 +615,9 @@ onts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/helen_ng17/Library/Appli
 cation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi1037/ecbx1200.
 pk></Users/helen_ng17/Library/Application Support/MiKTeX/texmfs/install/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Group5-Skills.pdf (13 pages, 167103 bytes).
+Output written on Group5-Skills.pdf (12 pages, 164433 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
